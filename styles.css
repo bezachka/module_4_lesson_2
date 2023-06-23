@@ -1,0 +1,38 @@
+h1 {
+    background: red;
+}
+
+.paragraph-ba {
+    background: blue;
+    font-size: 32pt;
+    color: yellow;
+}
+
+.paragraph-2 {
+    background: grey;
+    border-radius: 15px;
+    border-color: brown;
+    font-size: 24pt;
+    width: 50%;
+    border-width: 5px;
+}
+
+.div-1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20pt;
+    font-weight: 60pt;
+    text-align: center;
+}
+
+.div-2 {
+    font-size: 24px;
+    text-align: center;
+    font-style: italic;
+    text-shadow: rgb(0, 255, 0) 2px 3px 4px;
+}
+
+.image-1 {
+    border-radius: 15px;
+    text-align: center;
+
+}
